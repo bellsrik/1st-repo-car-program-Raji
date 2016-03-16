@@ -1,3 +1,5 @@
+package no1.Experiment;
+
 public class Car {
 	
 	int gear = 1;
